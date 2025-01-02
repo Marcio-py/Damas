@@ -15,7 +15,7 @@ Este é um projeto de jogo de damas desenvolvido em JavaScript, HTML e CSS. O jo
 ## Estrutura do Projeto
 
 📁 /src 
-  ├── 📄 main.js # Iniciar o Object Board e gerir os eventos
+  ├── 📄 main.js # Iniciar o Object Board e gerir os eventos 
     📁 /components 
         ├── 📄 Board.js # Lógica do tabuleiro e estado do jogo 
         ├── 📄 Piece.js # Lógica de movimentação e captura de peças 
@@ -27,3 +27,8 @@ Este é um projeto de jogo de damas desenvolvido em JavaScript, HTML e CSS. O jo
 - **CSS3**: Estilização da interface do jogo.
 - **JavaScript (ES6)**: Lógica de interação e movimentação das peças.
 - **jQuery**: Manipulação de DOM para seleção e movimentação de peças.
+- **Vite**: Vite.js é um build tool moderno e rápido para projetos web, com foco em desempenho e desenvolvimento ágil.
+
+## Como Rodar
+
+Para rodar o projeto, acesse o diretório `Front` e execute o comando `npm run dev` na linha de comando.
